@@ -1,0 +1,5 @@
+term xterm-color
+startup_message off
+defscrollback 1000
+hardstatus alwayslastline "%{= KW} %-w%{= wk}%n %t%{-}%+w%< %=%{+b Kg} %H | %c | %d.%m.%Y"
+
