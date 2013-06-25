@@ -1,1 +1,2 @@
 exec echo pulled repo
+exec touch mergehook
