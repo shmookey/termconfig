@@ -1,7 +1,7 @@
 termconfig
 ==========
 
-my configuration files for command line tools
+My configuration files for command line tools.
 
 set up hooks:
 ./install

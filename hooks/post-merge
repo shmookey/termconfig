@@ -1,2 +1,2 @@
-exec echo pulled repo
-exec touch mergehook
+echo pulled repo
+touch mergehook
