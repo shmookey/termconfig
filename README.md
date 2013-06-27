@@ -3,9 +3,9 @@ termconfig
 
 My configuration files for command line tools.
 
-set up hooks:
-./install
+After cloning for the first time simply run:
 
-apply configurations for the first time:
-./apply
+> ./install
+
+That's it! All your configuration files are set up and working. This will be automatic for all future pulls.
 
